@@ -1,2 +1,2 @@
-# IFTS-MELA-ml-lab
-Repository per il corso di laboratorio di Deep Learning della scuola IFTS-MELA.
+# Introduzione a Keras
+Corsi di introduzione a Keras, una libreria per lo sviluppo end-to-end di pipeline di Deep Learning.
